@@ -75,10 +75,10 @@ importance:
 
 Version Control Systems (VCS) - are software tools that help software teams manage changes to source code over time. eg Git
 importance:
-Collaboration: Enables multiple developers to work on the same codebase without conflicts.
-Change Tracking: Records detailed history of changes, allowing easy analysis of each modification. 
--Branching and Merging: Supports creating branches for new features and merging them back into the main code.
-Error Recovery: Allows reverting to previous versions if new changes introduce errors
+  Collaboration: Enables multiple developers to work on the same codebase without conflicts.
+  Change Tracking: Records detailed history of changes, allowing easy analysis of each modification. 
+  Branching and Merging: Supports creating branches for new features and merging them back into the main code.
+  Error Recovery: Allows reverting to previous versions if new changes introduce errors
 
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
