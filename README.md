@@ -1,3 +1,4 @@
+
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=18399280&assignment_repo_type=AssignmentRepo)
 # SE_Day1
 Software Engineering Day1 Assignment
@@ -28,10 +29,12 @@ List and briefly explain the phases of the Software Development Life Cycle.
 
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+
 waterfall methodology - Linear and sequential, each phase is completed before moving on. 
 - there is Low flexibility,changes are hard to incorporate once a phase is complete.
 - Customer feedback comes late, after the product is developed.
 - Testing is done at the end of the development process.
+
 agile methodology - Iterative and incremental, with multiple cycles (sprints). 
 - High flexibility, adapts to changing requirements. 
 - Regular customer feedback is incorporated into every sprint. 
