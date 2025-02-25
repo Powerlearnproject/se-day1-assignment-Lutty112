@@ -13,9 +13,9 @@ security - implement protection practice like authentication, authorization and 
 
 
 Identify and describe at least three key milestones in the evolution of software engineering.
-Mastering complexity
-Mastering process
-Mastering machine
+- Mastering complexity
+- Mastering process
+- Mastering machine
 
 
 List and briefly explain the phases of the Software Development Life Cycle.
